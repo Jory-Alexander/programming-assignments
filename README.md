@@ -1,2 +1,2 @@
 # programming-assignments
-programming assignments from my Intro and Intermediate Java classes
+Programming assignments from my Intro and Intermediate Java classes
